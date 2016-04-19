@@ -13,7 +13,7 @@ int main() {
       fbText = "Fizz";
     }
     if (i % 5 == 0) {
-      fbText += "Buzz";
+      fbText += "Buzz!";
     }
     printf("%d %s\n", i,fbText.c_str());
   
