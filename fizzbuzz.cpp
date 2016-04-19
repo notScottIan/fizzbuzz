@@ -6,7 +6,7 @@ int main() {
 
   string fbText = "testing";
 
-  for (int i=1;i<51;i++) {
+  for (int i=1;i<101;i++) {
 
     fbText = "";
     if (i % 3 == 0) {
